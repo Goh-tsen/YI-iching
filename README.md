@@ -36,7 +36,7 @@ Only thing needed is to type what you want to ask, then the result will come lat
 
 a) 如果得到的卦象中，没有任何一个变爻，则参考本卦的卦象；存在一个变爻，则参考本卦该爻的爻辞；存在两个变爻，参考本卦这两个爻的爻辞，以上面的变爻爻辞为主；存在三个变爻，则将变爻的阳变阴，阴变阳，得到变卦（之卦），以本卦和之卦的卦辞为参考；存在四个变爻，同样的方法得到之卦，以不变的两爻在之卦中对应的爻辞为参考，以上面的不变爻爻辞为主；存在五个变爻，以不变爻在之卦中对应的爻辞为参考；存在六个变爻，如果是乾或坤两卦，则以“用九”或“用六”之辞为参考，其他卦象则以之卦卦辞为参考。
 
-b) 将六个爻对应的数字（9，8，7，6）全部相加，用55减去这个和，得到一个差值。从下往上数爻，数到头后再重新从上往下数，不断地数到等于差值为止，数到的那一爻为宜变之爻。如果宜变之爻刚好就是变爻，则用方法a的步骤寻找需要参考的爻辞；如果宜变之爻不是变爻，若变爻数量少于3，则以本卦的卦辞为参考，若变爻数量大于3，则以之卦卦辞为参考，若变爻数量等于三，则两卦卦象均为参考。
+b) 将六个爻对应的数字（9，8，7，6）全部相加，用55减去这个和，得到一个差值。从下往上数爻，数到头后再重新从上往下数，不断地数到等于差值为止，数到的那一爻为宜变之爻。如果宜变之爻刚好就是变爻，则将该爻阳变阴或阴变阳，得到之卦（但以本卦的该爻爻辞为主要参考）；如果宜变之爻不是变爻，若变爻数量少于3，则以本卦的卦辞为参考，若变爻数量大于3，则以之卦卦辞为参考，若变爻数量等于三，则两卦卦象均为参考。
 
 
 1.2 Interpretation of the "gua" (hexagram)
@@ -57,7 +57,7 @@ a) If there is no changing line in the hexagram, read the text of the hexagram i
    
    If both six lines changes, change the hexagram ,read the text of the changed hexagram itself. In this case, if the original hexagram is "qian" (heaven) or "kun" (earth), read the text named "yong jiu" (in "qian") or "yong liu" (in "kun") rather than the text of changed hexagram.
    
-b) Add up all the numbers of the six lines (9, 8, 7, 6), use 55 to minus the sum, count the lines from buttom to top and then from top to bottom, repeat untill the number equals to the difference. The line where you stop is the line that could be changed. If this line is a changing line, follow the method a. If this line is not a changing line, count the changing line(s). If the number less than 3, read the text of the hexagram itself. If the number larger than 3, change the hexagram and read the text of the changed hexagram itself. If the number equals to 3, read text of both the original and changed hexagram themselves.
+b) Add up all the numbers of the six lines (9, 8, 7, 6), use 55 to minus the sum, count the lines from buttom to top and then from top to bottom, repeat untill the number equals to the difference. The line where you stop is the line that could be changed. If this line is a changing line, read the text of this line of the hexagram. If this line is not a changing line, count the changing line(s). If the number less than 3, read the text of the hexagram itself. If the number larger than 3, change the hexagram and read the text of the changed hexagram itself. If the number equals to 3, read text of both the original and changed hexagram themselves.
 
 
 
