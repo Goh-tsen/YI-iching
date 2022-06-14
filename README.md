@@ -71,4 +71,6 @@ b) Add up all the numbers of the six lines (9, 8, 7, 6), use 55 to minus the sum
 
 I use md5 to transform the question to hash value, record it in decimal. Then transform the time to a integer number in the order of YYYYmmddHHMMSS. The two number are added up and used as the random seed. I choose the 0-1 distrobution and repeat the test n times. The sum of those tests is considered as the number of yarrows in one side. Then followed the rule of Yarrow stalks divination, the lines and hexagram are found.
 
-[1]王晓刚,李德才.《周易》筮法溯源初探[J].内蒙古民族大学学报(自然科学版),2021,36(02):103-108.DOI:10.14045/j.cnki.15-1220.2021.02.003.
+
+参考文献
+[1] 王晓刚, 李德才. 《周易》筮法溯源初探[J]. 内蒙古民族大学学报(自然科学版), 2021, 36(02): 103-108. DOI: 10.14045/j.cnki.15-1220.2021.02.003.
