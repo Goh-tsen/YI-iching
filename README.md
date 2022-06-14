@@ -75,4 +75,5 @@ I use md5 to transform the question to hash value, record it in decimal. Then tr
 参考文献
 
 [1] 王晓刚, 李德才. 《周易》筮法溯源初探[J]. 内蒙古民族大学学报(自然科学版), 2021, 36(02): 103-108. DOI: 10.14045/j.cnki.15-1220.2021.02.003.
+
 [2] 高亨. 周易筮法新考 高亨著作集林[第一卷][M]. 董治安. 清华大学出版社. 北京, 2004:164.
